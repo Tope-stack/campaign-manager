@@ -1,9 +1,5 @@
-Social Media App
+Tab Tracker
 ================
 
-This app was built using 
 
-- HTML
-- CSS
-- JAVASCRIPT
 
